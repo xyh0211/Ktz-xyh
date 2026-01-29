@@ -141,7 +141,7 @@
     <img src="https://img.shields.io/badge/QQ--12B7F5?logo=qq" alt="QQ">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/微信-Ali01021123-07C160?logo=wechat" alt="微信">
+    <img src="https://img.shields.io/badge/微信--07C160?logo=wechat" alt="微信">
   </a>
   <a href="mailto:">
     <img src="https://img.shields.io/badge/邮箱--EA4335?logo=gmail" alt="邮箱">
